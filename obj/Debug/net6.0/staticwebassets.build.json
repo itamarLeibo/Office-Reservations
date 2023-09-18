@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "7g5xsDbA265g/yHqxnhJDlHHMLtZ0qWvg3nbv9vk/u4=",
+  "Source": "InterviewAssignment",
+  "BasePath": "_content/InterviewAssignment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "InterviewAssignment\\wwwroot",
+      "Source": "InterviewAssignment",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\",
+      "BasePath": "_content/InterviewAssignment",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\index.html",
+      "SourceId": "InterviewAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\",
+      "BasePath": "_content/InterviewAssignment",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\script.js",
+      "SourceId": "InterviewAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\",
+      "BasePath": "_content/InterviewAssignment",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\style.css",
+      "SourceId": "InterviewAssignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\testing\\checkmarxAssignment\\wwwroot\\",
+      "BasePath": "_content/InterviewAssignment",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
